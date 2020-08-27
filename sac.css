@@ -1,0 +1,113 @@
+.nave{
+	background-color:  #415e9b;
+	margin-top: 0px;
+	height: 80px;
+	color: white;
+}
+
+
+.heade{
+	padding-top: 40px;
+	padding-bottom: 10px;
+	padding-left: 50px;
+	font-size: 40px;
+	max-width: 100%;
+}
+.imge{
+	max-width: 100%;
+}
+.nave{
+	max-width: 100%;
+}
+.fr{
+	padding-right: 80px;
+	max-width: 100%;
+
+}
+.fp{
+	float: right;
+	color: white;
+	padding-top: 10px;
+	max-width: 100%;
+
+	padding-right: 120px;
+	
+}
+
+.hed{
+	float: right;
+	padding-right: 70px;
+	
+
+}
+.bton{
+	background-color: blue;
+}
+
+.ps{
+	padding-right: 60px;
+}
+.ime{
+	float: left;
+}
+.imge{
+	height: 550px;
+	width: 550px;
+	
+	padding-left: 60px;
+}
+.content{
+	background: linear-gradient(#fff,#d9ddeb);
+	overflow: hidden;
+}
+.bd{
+	font-size: 20px;
+}
+.details{
+	float: right;
+	max-width: 100%;
+
+
+	padding-right: 140px;
+
+}
+.acc{
+	max-width: 100%;
+
+	font-size: 40px;
+}
+.md,.em{
+	height: 35px;
+	max-width: 100%;
+
+
+	font-size: 20px;
+	margin-right: 10px;
+	margin-bottom: 5px;
+}
+.bd{
+	height: 35px;
+	max-width: 100%;
+
+
+	font-size: 20px;
+
+}
+.em{
+	width: 510px;
+}
+a{
+	text-decoration: none;
+
+
+}
+.btn{
+	color: white;
+	max-width: 100%;
+
+	background-color: green;
+	height: 35px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 20px;
+}
